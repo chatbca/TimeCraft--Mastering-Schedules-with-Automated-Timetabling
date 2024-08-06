@@ -1,4 +1,4 @@
-#Copyright (C)  2017  Nihal Rao I, Sanjan S Poojari, Shishir Upadhya
+
 
 '''
 xml paths:
